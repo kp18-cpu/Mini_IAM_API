@@ -1,4 +1,4 @@
-# JWT Authentication API
+# Mini IAM API with Flask & JWT
 
 A Flask-based REST API demonstrating JWT authentication and role-based access control (RBAC) for learning purposes.
 
