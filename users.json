@@ -1,0 +1,33 @@
+[
+    {
+        "username": "admin",
+        "password_hash": "pbkdf2:sha256:600000$kkURlFzsAB8ltzqB$8177c953b529ca4c345b00249cd7c71ff467e6da5d8a950a0c333081b0165585",
+        "roles": [
+            "user",
+            "admin"
+        ]
+    },
+    {
+        "username": "testuser",
+        "password_hash": "pbkdf2:sha256:600000$2vcceziPdQGUeSt5$19a91d04148019831b6a0e499c7b0a4924596407c96e2f2b5dcd9493f6117f49",
+        "roles": [
+            "user"
+        ]
+    },
+    {
+        "username": "dino",
+        "password_hash": "pbkdf2:sha256:600000$oobLKLzxoHpUIucG$41276b48e3cea5161ea0eca66f46290e2533020645c21a949793b8126d8f646f",
+        "roles": [
+            "admin",
+            "user"
+        ]
+    },
+    {
+        "username": "kp",
+        "password_hash": "pbkdf2:sha256:600000$kjiNqEW46nGI3qJS$323c2f8f0c57e34654d8a327611106938c7f3072daa0c86893ddad6eb395b735",
+        "roles": [
+            "user",
+            "admin"
+        ]
+    }
+]
